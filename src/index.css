@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+htm {
+  direction: rtl;
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
